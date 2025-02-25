@@ -46,9 +46,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //├────────┼────────┼────────┼────────┼────────┼────────┼────────┤                         ├────────┼────────┼────────┼────────┼────────┼────────┼────────┤
      KC_MEH  ,KC_A    ,KC_R    ,KC_S    ,KC_T    ,KC_D    ,KC_NUPI ,                          KC_HASH ,KC_H    ,KC_N    ,KC_E    ,KC_I    ,KC_O    ,KC_RCTL ,
   //├────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┐       ┌────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┤
-     KC_HYPR ,KC_Z    ,KC_X    ,KC_C    ,KC_V    ,KC_B    ,KC_ADPU ,KC_PGDN ,        KC_HOME ,KC_ADEN ,KC_K    ,KC_M    ,KC_COMM ,KC_DOT  ,KC_SLSH ,KC_ENT  ,
+     KC_HYPR ,KC_Z    ,KC_X    ,KC_C    ,KC_V    ,KC_B    ,KC_ADPU ,KC_PGDN ,        KC_HOME ,KC_ADEN ,KC_K    ,KC_M    ,KC_COMM ,KC_DOT  ,KC_SLSH ,KC_LALT ,
   //├────────┼────────┼────────┼────────┼────┬───┴────┬───┼────────┼────────┤       ├────────┼────────┼───┬────┴───┬────┼────────┼────────┼────────┼────────┤
-     KC_ESC  ,KC_LGUI ,XXXXXXX ,KC_TAB  ,     KC_LSFT ,    KC_BSPC ,KC_LCTL ,        NAV_L   ,KC_SPC  ,     SYM_L  ,     KC_MINS ,KC_QUOT ,KC_RALT ,KC_LALT
+     KC_ESC  ,KC_LGUI ,XXXXXXX ,KC_TAB  ,     KC_LSFT ,    KC_BSPC ,KC_LCTL ,        NAV_L   ,KC_SPC  ,     SYM_L  ,     KC_MINS ,KC_QUOT ,KC_RALT ,KC_ENT
   //└────────┴────────┴────────┴────────┘    └────────┘   └────────┴────────┘       └────────┴────────┘   └────────┘    └────────┴────────┴────────┴────────┘
   ),
 
